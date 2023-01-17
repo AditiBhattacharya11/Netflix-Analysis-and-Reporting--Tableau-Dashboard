@@ -1,0 +1,2 @@
+# Netflix-Analysis-and-Reporting--Tableau-Dashboard
+Tableau dashboard made using Netflix world wide data. Used information to create various bar graphs and chart using filters (TV Show and Movies). Understanding the Netflix data, that's available in different countries,creating relative reports. Network analysis of Actors / Directors, TV shows/Movies and content in general, and finding interesting insights related to category, release date, demography. Representing the findings and reports using bar graph and filters in Tableau.
